@@ -11,8 +11,4 @@ aiding in targeted marketing strategies.
 - [Chen,Daqing. (2019). Online Retail II. UCI Machine Learning Repository. https://doi.org/10.24432/C5CG6D.](URL): citation containing the dataset used for the analysis.
 - [https://public.tableau.com/app/profile/naren.karthikeya/vizzes](URL)`: Link to Tableau dashboard.
 - `requirements.txt`: List of Python dependencies for replicating the analysis.
-
-### Prerequisites
-- Python 3.x
-- Jupyter Notebook
-- Tableau Public or Desktop
+  
